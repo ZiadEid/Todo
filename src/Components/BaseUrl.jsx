@@ -1,0 +1,1 @@
+export const baseUrl = 'https://shop.easetasks.com/index.php/api';

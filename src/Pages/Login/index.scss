@@ -1,0 +1,13 @@
+#login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #09c;
+  input {
+    outline: none ;
+  }
+  button:disabled {
+    opacity: 0.35;
+  }
+}
